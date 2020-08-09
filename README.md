@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Estudante de Desenvolvimento Web/Front-end | HTML5 | CSS3 | JS | WordPress.
+
+À procura de um estágio na área .
+
 <!--
 **igorHung/igorHung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
