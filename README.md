@@ -1,6 +1,6 @@
-🔭 Á procura de Estágio
-🌱 Estudando JavaScript
-👯 Contato: igor.tssa@hotmail.com / 31991386262
+ - 🔭 Á procura de Estágio
+ - 🌱 Estudando JavaScript
+ - 👯 Contato: igor.tssa@hotmail.com / 31991386262
 
 
 <div align="center">
