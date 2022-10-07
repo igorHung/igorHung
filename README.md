@@ -1,14 +1,8 @@
  - 🔭 Á procura de Estágio
  - 🌱 Estudando JavaScript
- - 👯 Contato: igorhunguereaguiar@gmail.com / 31991386262
+ - 👯 Contato: igorhunguereaguiar@gmail.com / 31991386262  ![image](https://user-images.githubusercontent.com/36906492/194445609-dbae3bf6-526f-4c77-b89b-327b5fb9ee3a.png)
 
 
-<div align="">
-  <a href="https://github.com/igorHung"> ![image](https://user-images.githubusercontent.com/36906492/194445609-dbae3bf6-526f-4c77-b89b-327b5fb9ee3a.png)
-
-
-
-</div>
   
   ##
  
